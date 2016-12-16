@@ -54,4 +54,9 @@ là: 是
     Anh: 你(我)
     Em：妳(我)
     Tôi: 我
-    mình: 我
+    Mình: 我 (親切用法)
+    Bạn:你(朋友)
+ 
+ 
+##### 參考影片 
+ [link](https://www.youtube.com/watch?v=Mxz6sh7QN9w&index=1&list=PL7njWER4EyDHwvEz_5RMuGrZFHj0OO3k0)
